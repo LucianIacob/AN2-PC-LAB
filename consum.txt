@@ -1,0 +1,20 @@
+Ionel Agrigoroaei,Bd Eroilor 7 Brasov,t,1234,1432
+Adrian Anghel,Str Marginasa 212 Constanta,f,432,652
+Niculae Badalau,Str Aurel Vlaicu 143 Suceava,t,4531,4982
+Viorel-Riceard Badea,Bd Aviatorilor 300 Bucuresti,t,3256,4000
+Tudor Barbu,Aleea Nucilor 23 Sibiu,t,23,100
+Trifon Belacurencu,Str Piezisa 2 Arad,f,214,365
+Biro Rozalia-Ibolya,Bd Titulescu 14 Oradea,f,786,984
+Neculai Bereanu,Aleea Ciucas 1 Timisoara,t,456,604
+Catalin Boboc,Str Maior 38 Craiova,t,8765,8799
+Marius-Sorin-Ovidiu Bota,Bd Prezan 11 Iasi,t,436,694
+Dumitru-Marcel Bujor,Str Napoca 25 Cluj-Napoca,f,1023,2000
+Ristoiu Dumitru,Str Horea 1 Botosani,t,543,654
+Dicu Tiberiu,Str Garii 12 Piatra Neamt,t,354,657
+Modoi Oana-Cristina,Str B. P. Hasdeu 92 Tulcea,t,12,200
+Anton Mircea,Splaiul Independentei 102 Pitesti,f,3456,3780
+Cosma Constantin,Calea Floresti 324 Ploiesti,f,274,352
+Begy Robert,Str Primaverii 76 Targoviste,t,902,1000
+Gligor Delia-Maria,Str Ovidiu 34 Alexandria,f,450,450
+Botezan Camelia-Sabina,B-dul Unirii 654 Bucuresti,t,800,900
+Ozunu Alexandru,Aleea Merilor 12 Zalau,t,3309,3503
